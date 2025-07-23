@@ -4,7 +4,7 @@ This project focuses on building and evaluating deep learning autoencoder models
 
 ---
 
-## 🚀 Key Features
+## 🔧 Features
 
 * **Comprehensive Pistachio Image Data Analysis (EDA)**
     * Detection of corrupted, duplicated, and low-quality (blurry) pistachio images.
