@@ -24,7 +24,7 @@ This project focuses on building and evaluating deep learning autoencoder models
 
 ---
 
-## 🧠 Core Concepts
+## 🧠 Concepts Used
 
 * **Image Denoising**: The process of recovering clean images from noisy inputs.
 * **Convolutional Autoencoders**: Neural networks designed for unsupervised feature learning and dimensionality reduction, particularly effective for image data reconstruction.
