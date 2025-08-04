@@ -4,6 +4,12 @@ This project focuses on building and evaluating deep learning autoencoder models
 
 ---
 
+## 🔗 Dataset Access
+
+[![Download Dataset](https://img.shields.io/badge/Download%20Dataset-003366?style=for-the-badge)](https://drive.google.com/file/d/11PltRpmCYG3xc8T8MsHyRxuLzhHsAJX0/view?usp=sharing)
+
+---
+
 ## 🔧 Features
 
 * **Comprehensive Pistachio Image Data Analysis (EDA)**
